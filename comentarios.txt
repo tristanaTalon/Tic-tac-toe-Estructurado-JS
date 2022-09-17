@@ -1,0 +1,4 @@
+El programa funciona si lo abres con el live server. Si lo abres directamente desde el directorio de carpetas no funciona sale el siguiente error: Failed to load resource: net::ERR_FILE_NOT_FOUND
+
+El programa se encuentra online, puede acceder a través del siguiente link:
+https://tristanatalon.github.io
